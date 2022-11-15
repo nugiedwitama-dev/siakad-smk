@@ -1,0 +1,16 @@
+.gradient-custom {
+    background: #6a11cb;
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
+.footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 0;
+    justify-content: center;
+}
+.content{
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

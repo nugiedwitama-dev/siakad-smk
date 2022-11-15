@@ -1,0 +1,34 @@
+
+{
+  "@context": "https://schema.org",
+  "@type": "VideoGame",
+  "name": "Dream League Soccer",
+  "url": "https://www.ftgames.com/",
+  "playMode": "MultiPlayer",
+  "gamePlatform": " Online_gaming_services",
+  "video": {
+  "@type" : "VideoObject",
+  "name" : "Dream League Soccer",
+  "caption" : "Kit DLS Persib Bandung terbaru 2022",
+  "description" : "Kit DLS Persib Bandung terbaru 2022, link mudah dan lengkap dengan logo bisa langsung digunakan.",
+  "url" : "https://www.youtube.com/watch?v=nhUPCOF2AII",
+  "uploadDate" : "11 Februari 2022",
+  "thumbnailUrl" : "https://idcr.co.id/wp-content/uploads/2022/08/Persib-Bandung-dls-kit-2022-gk-home.png",
+  "contentUrl" : "https://idcr.co.id/kit-dls-persib-bandung/",
+  "embedUrl" : "https://www.youtube.com/embed/nhUPCOF2AII"
+  }
+}
+
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWorkSeries",
+  "name": "{title}",
+  "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{score}",
+      "bestRating": "{best}",
+      "ratingCount": "{count}",
+      
+  }
+}
+      
